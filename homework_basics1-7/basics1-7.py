@@ -1,6 +1,4 @@
-from idlelib.editor import keynames
 from operator import index
-from tkinter.font import names
 
 for num in range(12, 24 + 1):  # 1
     print(num, end=" ")
